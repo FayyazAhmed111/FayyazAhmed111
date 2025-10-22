@@ -32,9 +32,14 @@ My journey bridges web, mobile, and blockchain development — combining creativ
 
 ## 📊 GitHub Stats & Activity  
 
-![Fayyaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FayyazAhmed111&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FayyazAhmed111&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FayyazAhmed111&theme=radical&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FayyazAhmed111&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayyazAhmed111&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FayyazAhmed111&theme=radical&hide_border=true" />
+</p>
 
 ---
 
