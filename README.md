@@ -14,7 +14,7 @@ My journey bridges web, mobile, and blockchain development — combining creativ
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-`HTML` · `CSS` · `JavaScript` · `React.js` · `Next.js` · `TailwindCSS` · `Flutter`  
+`HTML` · `CSS` · `JavaScript` · `React.js` · `Next.js` · `TailwindCSS` · `BootStrapCSS` · `Flutter`  
 
 **Backend:**  
 `Node.js` · `Express.js` · `MongoDB` · `Firebase`  
