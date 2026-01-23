@@ -2,7 +2,7 @@
   
   <h1 style="font-size:2.8rem; color:#ff005c; margin-bottom:10px;">👋 Hey there, I'm Fayyaz Ahmed</h1>
   <p style="font-size:1.1rem; color:#ccc; margin-top:0;">
-    Full Stack MERN Developer | Software Engineering Student | Web3 Enthusiast
+    Full Stack MERN Developer | Software Engineer | Web3 Enthusiast
   </p>
 
   <hr style="border:none; height:2px; width:80%; background:linear-gradient(to right,#ff005c,#7f00ff); border-radius:5px; margin:25px 0;">
