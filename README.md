@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Fayyaz Ahmed 👋</h1>
+<h1 align="center">Hi, I’m Fayyaz Ahmed </h1>
 
 <p align="center">
 Software Engineer | Full Stack Developer (MERN) | Web & WordPress Specialist
@@ -21,8 +21,8 @@ Currently, I’m improving backend workflows and modern frontend performance whi
 **Frontend**  
 HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap
 
-**Backend**  
-Node.js, Express.js, MongoDB, Firebase
+**Backend &  DB**  
+Node.js, Express.js, MongoDB, Firebase, PostgreSQL
 
 **Mobile**  
 React Native, Flutter
